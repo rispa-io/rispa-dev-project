@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@rispa/cli@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@rispa/cli/-/cli-2.2.0.tgz#eb57c0348efbabd0aea0c54a68261cf25563b017"
+"@rispa/cli@latest":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@rispa/cli/-/cli-2.2.1.tgz#d0a11ee0e0d75ac173c636d799e7206aa19c0cbf"
   dependencies:
     "@rispa/generator" "1.0.0"
     axios "^0.16.1"
