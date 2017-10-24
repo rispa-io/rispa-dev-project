@@ -3,6 +3,7 @@
   "pluginsPath": "./packages",
   "plugins": [
     "rispa-redux",
+    "rispa-babel",
     "rispa-webpack-javascript",
     "rispa-core",
     "rispa-config",
@@ -17,6 +18,7 @@
   ],
   "remotes": {
     "rispa-redux": "https://github.com/rispa-io/rispa-redux.git",
+    "rispa-babel": "https://github.com/rispa-io/rispa-babel.git",
     "rispa-webpack-javascript": "https://github.com/rispa-io/rispa-webpack-javascript.git",
     "rispa-core": "https://github.com/rispa-io/rispa-core.git",
     "rispa-config": "https://github.com/rispa-io/rispa-config.git",
