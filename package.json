@@ -7,8 +7,13 @@
   "dependencies": {
     "lerna": "2.5.1"
   },
+  "devDependencies": {
+  },
   "scripts": {
-    "bs": "lerna bootstrap",
-    "postinstall": "lerna bootstrap"
-  }
+    "bs": "yarn install && ris clean-cache && ris @rispa/core build && ris @rispa/babel build && ris @rispa/config build",
+    "postinstall": "ris clean-cache"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
