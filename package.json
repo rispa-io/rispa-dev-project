@@ -10,7 +10,7 @@
   "devDependencies": {
   },
   "scripts": {
-    "bs": "yarn install && ris clean-cache && ris @rispa/core build && ris @rispa/babel build && ris @rispa/config build",
+    "bs": "yarn install && ris clean-cache && ris all compile",
     "postinstall": "ris clean-cache"
   },
   "workspaces": [
