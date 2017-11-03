@@ -23,8 +23,8 @@
       "remote": "https://github.com/rispa-io/rispa-config.git"
     },
     {
-      "name": "rispa-config-react",
-      "remote": "https://github.com/rispa-io/rispa-config-react.git"
+      "name": "rispa-react-config",
+      "remote": "https://github.com/rispa-io/rispa-react-config.git"
     },
     {
       "name": "rispa-generator",
