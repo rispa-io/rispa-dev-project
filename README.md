@@ -1,5 +1,7 @@
 # Rispa developer project
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rispa-io/rispa-dev-project.svg)](https://greenkeeper.io/)
+
 ## Plugin status
 
 Plugin name           | Build status | Version | Git version | Issues  
